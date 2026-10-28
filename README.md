@@ -145,6 +145,3 @@ python app.py --seed       # optional sample policy documents
 - Results depend on document quality, chunking, embedding relevance, index configuration, model behavior, and the chosen evaluation questions.
 - Scanned/image-only PDFs may require OCR before text can be extracted.
 
-## Author
-
-**Eman Furrukh** — Advanced Database course project.
