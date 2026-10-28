@@ -1,0 +1,8 @@
+streamlit
+pymongo
+python-dotenv
+openai
+sentence-transformers
+pypdf
+python-pptx
+python-docx
